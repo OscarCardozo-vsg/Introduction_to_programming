@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+108
+"Agesoft V.1.0
+Maker: Oscar Javier Cardozo Diaz
+This software was made to calculate the age of a person." 
+4
+1
+31
+"input the year when you born:"
+5
+1
+4
+year
+7
+1
+1
+9
+year>2021
+4
+1
+46
+"ERROR: The year that you input is incorrect."
+13
+6
+1
+3
+age
+9
+2021-year
+13
+4
+1
+33
+"your age is: ", age, " year old"
+1

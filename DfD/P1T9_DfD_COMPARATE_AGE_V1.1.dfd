@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+117
+"Comparateagesoft V1.1
+Maker: Oscar Cardozo
+this software was made to compare two ages between two diferent people"
+4
+1
+42
+"Please put the two years that you born: "
+5
+1
+5
+year1
+5
+1
+5
+year2
+7
+1
+1
+24
+year1>2022 OR year2>2022
+4
+1
+43
+"ERROR: the year that you put is incorrect"
+13
+6
+2
+4
+age1
+10
+2021-year1
+4
+age2
+10
+2021-year2
+7
+0
+1
+9
+age1=age2
+7
+0
+1
+9
+age1<age2
+4
+1
+40
+"the minor between the both is: ", year2
+13
+4
+1
+40
+"the minor between the both is: ", year1
+13
+13
+4
+1
+24
+"both have the same age"
+13
+13
+1

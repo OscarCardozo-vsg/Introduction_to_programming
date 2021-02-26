@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+143
+"Camparateagesoft V1.0
+Makers: Oscar Cardozo Emerson Gutierrez Frank Manrique
+This software was made to comparate the age between two people"
+4
+1
+41
+"good morning please put the first age: "
+5
+1
+4
+age1
+7
+1
+1
+8
+age1>110
+4
+1
+70
+"ERROR: the age is incorrect please put a age minor that 110 year old"
+13
+4
+1
+29
+"please put the second age: "
+5
+1
+4
+age2
+7
+1
+1
+8
+age2>110
+4
+1
+70
+"ERROR: the age is incorrect please put a age minor that 110 year old"
+13
+7
+1
+1
+9
+age1<age2
+4
+1
+50
+"The first person is minor than the second person"
+13
+4
+1
+50
+"The first person is major than the second person"
+13
+13
+13
+1
