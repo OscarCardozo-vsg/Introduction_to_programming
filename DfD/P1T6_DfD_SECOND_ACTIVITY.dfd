@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+104
+"Soft_sum V1.0
+Maker: Oscar Javier Cardozo Diaz
+this software was made to sum three diferent numbers."
+4
+1
+24
+"input he first number:"
+5
+1
+7
+number1
+4
+1
+26
+"input the second number:"
+5
+1
+7
+number2
+4
+1
+24
+"input the last number:"
+5
+1
+7
+number3
+6
+1
+3
+sum
+23
+number1+number2+number3
+4
+1
+44
+"El resultado de la suma es igual a: ", sum 
+1

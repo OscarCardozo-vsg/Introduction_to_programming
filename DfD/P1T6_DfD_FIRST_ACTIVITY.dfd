@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+"Buenos dias ¿como te llamas?"
+5
+1
+4
+name
+4
+1
+50
+"mucho gusto ", name, " ¿como estas? (bien o mal)"
+5
+1
+11
+how_are_you
+7
+0
+1
+19
+how_are_you= "bien"
+4
+1
+42
+"Lo siento mucho que estes " , how_are_you
+13
+4
+1
+39
+"Me alegra de que estes " , how_are_you
+13
+4
+1
+75
+"Para entrar a este software necesitas ser mayor de edad ¿que edad tienes?"
+5
+1
+3
+age
+7
+0
+1
+9
+age >= 18
+4
+1
+60
+"Lo siento mucho no tienes la autorización para entrar aqui"
+13
+4
+1
+19
+"Bienvenido ", name
+13
+1
