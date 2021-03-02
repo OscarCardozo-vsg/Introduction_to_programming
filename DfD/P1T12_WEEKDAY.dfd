@@ -1,0 +1,177 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+108
+"Weekdaysoft V1.0 Maker: Oscar Javier Cardozo Diaz This software was made to calculate the day of the week."
+4
+1
+46
+"please input the day that you want to know: "
+5
+1
+5
+v_day
+7
+0
+1
+22
+v_day>=1 AND v_day<=14
+4
+1
+45
+"ERROR: the day that you input is incorrect."
+13
+7
+0
+1
+7
+v_day=1
+7
+0
+1
+7
+v_day=2
+7
+0
+1
+7
+v_day=3
+7
+0
+1
+7
+v_day=4
+7
+0
+1
+7
+v_day=5
+7
+0
+1
+7
+v_day=6
+7
+0
+1
+7
+v_day=7
+7
+0
+1
+7
+v_day=8
+7
+0
+1
+7
+v_day=9
+7
+0
+1
+8
+v_day=10
+7
+0
+1
+8
+v_day=11
+7
+0
+1
+8
+v_day=12
+7
+0
+1
+8
+v_day=13
+4
+1
+20
+"Your day is SUNDAY"
+13
+4
+1
+22
+"Your day is SATURDAY"
+13
+13
+4
+1
+20
+"Your day is FRIDAY"
+13
+13
+4
+1
+22
+"Your day is THURSDAY"
+13
+13
+4
+1
+23
+"Your day is WEDNESDAY"
+13
+13
+4
+1
+21
+"Your day is TUESDAY"
+13
+13
+4
+1
+20
+"Your day is MONDAY"
+13
+13
+4
+1
+20
+"Your day is SUNDAY"
+13
+13
+4
+1
+22
+"Your day is SATURDAY"
+13
+13
+4
+1
+20
+"Your day is FRIDAY"
+13
+13
+4
+1
+22
+"Your day is THURSDAY"
+13
+13
+4
+1
+23
+"Your day is WEDNESDAY"
+13
+13
+4
+1
+21
+"Your day is TUESDAY"
+13
+13
+4
+1
+20
+"Your day is MONDAY"
+13
+13
+1

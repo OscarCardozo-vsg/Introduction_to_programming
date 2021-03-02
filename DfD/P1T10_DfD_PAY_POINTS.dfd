@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+111
+"Paypointsoft V1.0
+Maker: Oscar Javier Cardozo Diaz
+that software we gonna use to value 4 different products"
+4
+1
+25
+"input the first product"
+5
+1
+2
+P1
+4
+1
+25
+"input the first product"
+5
+1
+2
+P2
+4
+1
+25
+"input the third product"
+5
+1
+2
+P3
+4
+1
+26
+"input the fourth product"
+5
+1
+2
+P4
+7
+0
+1
+32
+P1<=0 OR P2<=2 OR P3<=0 OR P4<=0
+6
+3
+6
+SUMPRO
+11
+P1+P2+P3+P4
+5
+IVA19
+11
+SUMPRO*0.19
+5
+TOTAL
+12
+SUMPRO+IVA19
+4
+1
+97
+"The gross value is: $ ", SUMPRO," the tax IVA19% is: $", IVA19," the total invoice is: $", TOTAL
+13
+4
+1
+54
+"ERROR: some products have a cosst that doesn´t exist"
+13
+1

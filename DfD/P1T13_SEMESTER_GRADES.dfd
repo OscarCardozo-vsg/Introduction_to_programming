@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+122
+"SemesterGradesSoft V.1.0 Maker: Oscar Javier Cardozo Diaz This software was made to calculate the score of the semester."
+4
+1
+40
+"Please input the name of the student: "
+5
+1
+6
+v_name
+4
+1
+42
+"Please input the scores of the student: "
+5
+1
+11
+N1,N2,N3,N4
+7
+0
+1
+64
+N1<0 OR N1>50 OR N2<0 OR N2>50 OR N3<0 OR N3>50 OR N4<0 OR N4>50
+6
+3
+3
+NT1
+6
+N1*0.2
+3
+NT2
+7
+N2*0.25
+3
+NT3
+7
+N3*0.25
+6
+2
+3
+NT4
+6
+N4*0.3
+2
+NT
+15
+NT1+NT2+NT3+NT4
+7
+0
+1
+5
+NT<29
+4
+1
+77
+"The student: ",v_name," has a total score of: ",NT,". The student approved."
+13
+4
+1
+78
+"The student: ",v_name," has a total score of: ",NT,". The student reprobate."
+13
+13
+4
+1
+45
+"ERROR: the score that you input is invalid."
+13
+1
