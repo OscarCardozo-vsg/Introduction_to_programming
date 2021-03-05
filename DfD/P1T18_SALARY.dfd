@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+113
+"SalarySoft V1.0 Maker.oscar javier cardozo diaz This software was made to calculate the salary of a n employee."
+4
+1
+27
+"Please input your salary:"
+5
+1
+8
+v_salary
+4
+1
+40
+"Please input the days that you worked:"
+5
+1
+6
+v_days
+7
+0
+1
+11
+v_salary<=0
+7
+0
+1
+22
+v_days<0 OR v_days>=31
+6
+2
+9
+v_Tsalary
+11
+v_salary/30
+7
+v_total
+0
+
+13
+4
+1
+44
+"ERROR: you just can work between 1-30 days"
+13
+13
+4
+1
+65
+"ERROR: why do you pay to work?, the number must be mayor than 0"
+13
+1

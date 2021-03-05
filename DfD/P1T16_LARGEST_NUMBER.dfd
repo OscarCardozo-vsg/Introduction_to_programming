@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+134
+"LargestNumberSoft V1.0 Maker: Oscar Javier Cardozo Diaz this software was made to calculate the largest number between three number."
+4
+1
+34
+"Please input the three numbers: "
+5
+1
+8
+N1,N2,N3
+7
+0
+1
+25
+N1=N2 AND N2=N3 AND N1=N3
+7
+0
+1
+15
+N1>N2 AND N1>N3
+7
+0
+1
+15
+N2>N1 AND N2>N3
+4
+1
+36
+"The number: ",N3," is the largest."
+13
+4
+1
+36
+"The number: ",N2," is the largest."
+13
+13
+4
+1
+36
+"The number: ",N1," is the largest."
+13
+13
+4
+1
+32
+"the three numbers are the same"
+13
+1

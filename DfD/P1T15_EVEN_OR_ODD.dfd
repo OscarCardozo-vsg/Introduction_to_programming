@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+117
+"EvenOrOddSoft V1.0 Maker: oscar javier cardozo diaz this software was made to calculate if a number is even or odd."
+4
+1
+31
+"Please input a whole number: "
+5
+1
+5
+v_num
+6
+1
+6
+Ntotal
+11
+v_num mod 2
+7
+0
+1
+10
+Ntotal = 0
+4
+1
+30
+"The number:", v_num," is odd"
+13
+4
+1
+31
+"The number:", v_num," is even"
+13
+1

@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+114
+"CalendarSoft V1.0 Maker: Oscar Javier Cardozo Diaz This software was made for telling you in what month you are."
+4
+1
+33
+"input the month that you want: "
+5
+1
+7
+v_month
+7
+0
+1
+23
+v_month<1 OR v_month>12
+7
+0
+1
+10
+v_month=2 
+7
+0
+1
+90
+v_month=1 OR v_month=3 OR v_month=5 OR v_month=7 OR v_month=8  OR v_month=10 OR v_month=12
+4
+1
+24
+"Your month has 30 days"
+13
+4
+1
+24
+"Your month has 31 days"
+13
+13
+4
+1
+27
+"Your month has 28-29 days"
+13
+13
+4
+1
+47
+"ERROR: the number that you input doesnt exist"
+13
+1
