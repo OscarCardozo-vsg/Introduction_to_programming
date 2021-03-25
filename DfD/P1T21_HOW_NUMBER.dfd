@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+105
+"HowNumberSoft V.1.0 - Maker: Oscar Javier Cardozo Diaz - this software was made to visualite N numbers."
+4
+1
+37
+"Type the total number that you want"
+5
+1
+14
+v_total_number
+7
+0
+1
+17
+v_total_number<=0
+8
+1
+1
+i
+1
+1
+1
+1
+14
+v_total_number
+1
+1
+1
+4
+1
+26
+"The number cycle is: ", i
+10
+13
+4
+1
+42
+"ERROR: you cannot put a negative number."
+13
+1

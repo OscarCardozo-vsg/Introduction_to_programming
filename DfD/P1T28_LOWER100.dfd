@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+151
+"Lower100Soft V1.0 Maker: Oscar Javier Cardozo Diaz  this softwaare calculate the sumatory of diferents numbers until that sumatory  be he same to 100"
+6
+3
+5
+v_sum
+1
+0
+9
+v_average
+1
+0
+7
+v_count
+1
+0
+4
+1
+18
+"input a number: "
+5
+1
+5
+v_num
+9
+1
+9
+v_num>100
+6
+2
+5
+v_sum
+11
+v_sum+v_num
+7
+v_count
+9
+v_count+1
+4
+1
+18
+"input a number: "
+5
+1
+5
+v_num
+11
+7
+0
+1
+9
+v_count=0
+6
+1
+9
+v_average
+13
+v_sum/v_count
+4
+1
+91
+"the sum is: ",v_sum," the average of your sum is: ",v_average," for ", v_count," numbers."
+13
+4
+1
+45
+"ERROR: you must put more than zero numbers."
+13
+1

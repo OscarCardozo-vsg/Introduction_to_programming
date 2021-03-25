@@ -1,0 +1,124 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+4
+1
+103
+"ColdAndHotSoft V1.0 Maker: Oscar Javier Cardozo Diaz  This game gonna simulate the game hot and cold."
+6
+2
+12
+v_sys_number
+13
+random(100)+1
+8
+v_intent
+2
+10
+12
+1
+14
+P_INPUT_NUMBER
+1
+13
+v_user_number
+9
+1
+42
+v_sys_number!=v_user_number AND v_intent>0
+6
+2
+8
+v_intent
+10
+v_intent-1
+5
+v_dif
+26
+v_sys_number-v_user_number
+7
+0
+1
+13
+abs(v_dif)<=3
+7
+1
+1
+7
+v_dif>0
+4
+1
+9
+"cold up"
+13
+4
+1
+11
+"cold down"
+13
+13
+4
+1
+17
+"you are hot 7w7"
+13
+4
+1
+31
+"Please input another number: "
+5
+1
+13
+v_user_number
+11
+7
+0
+1
+10
+v_intent=0
+4
+1
+103
+"congratulation you got it you are the best- the number was: ",v_sys_number," you got it in: ",v_intent
+13
+4
+1
+19
+"Sorry you lost :c"
+13
+1
+2
+1
+14
+P_INPUT_NUMBER
+1
+13
+v_user_number
+1
+41
+This sub-program gonna give you a number 
+4
+1
+23
+"Please input a number"
+5
+1
+13
+v_user_number
+9
+1
+36
+v_user_number<0 OR v_user_number>100
+4
+1
+84
+"ERROR: your number should be inside between 0 nad 100-please input another number:"
+5
+1
+13
+v_user_number
+11
+3
