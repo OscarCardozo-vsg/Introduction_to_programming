@@ -1,72 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="087e3c10-827f-450c-a304-8beddc828e21" name="Default Changelist" comment="" />
+    <list default="true" id="7721d9ab-5285-445e-a29a-d57fc406ae32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeGym/CodeGym.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T35_JAVA_SECOND_ACTIVITY/P1_T35_JAVA_SECOND_ACTIVITY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T36_JAVA_THIRD_ACTIVITY/P1_T36_JAVA_THIRD_ACTIVITY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T37_JAVA_FORTH_ACTIVITY/P1_T37_JAVA_FORTH_ACTIVITY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/Documents.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/P1_T38_JAVA_FIFTH_ACTIVITY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/P1_T39_JAVA_SIXTH_ACTIVITY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/x.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T40_JAVA_SEVENTH_ACTIVITY/P1_T40_JAVA_SEVENTH_ACTIVITY.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1q9xAAlatijFSD9oktR4HIvRxks" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qH9ewd741SLQ3A9NpkmIxu7RAb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="x" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="087e3c10-827f-450c-a304-8beddc828e21" name="Default Changelist" comment="" />
-      <created>1616505460111</created>
+      <changelist id="7721d9ab-5285-445e-a29a-d57fc406ae32" name="Default Changelist" comment="" />
+      <created>1616725746945</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616505460111</updated>
+      <updated>1616725746945</updated>
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="2518" height="416" key="GridCell.Tab.0.bottom" timestamp="1616507034703">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2518" height="416" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1616507034703" />
-    <state width="2518" height="416" key="GridCell.Tab.0.center" timestamp="1616507034702">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2518" height="416" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1616507034702" />
-    <state width="2518" height="416" key="GridCell.Tab.0.left" timestamp="1616507034701">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2518" height="416" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1616507034701" />
-    <state width="2518" height="416" key="GridCell.Tab.0.right" timestamp="1616507034702">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2518" height="416" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1616507034702" />
-    <state x="683" y="339" key="new project wizard" timestamp="1616507032432">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="683" y="339" key="new project wizard/0.0.2560.1440@0.0.2560.1440" timestamp="1616507032432" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
