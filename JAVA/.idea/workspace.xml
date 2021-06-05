@@ -2,58 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7721d9ab-5285-445e-a29a-d57fc406ae32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JAVA_TEST/JAVA_TEST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T51_ARRAY_BIDIMENSIONAL/P1_T51_ARRAY_BIDIMENSIONAL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T55_JAVA_TEST_2/P1_T55_JAVA_TEST_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T56_MULTI_CLASS/src/usta/logic/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T57_PROYECTO_FINAL/src/usta/fis/Confirmation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T57_PROYECTO_FINAL/src/usta/fis/Procedimiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T57_TRIKI/src/triki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_T57_TRIKI/src/usta/fis/triki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w/w.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x/x.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/y/y.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/z/z.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T37_JAVA_FORTH_ACTIVITY/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T37_JAVA_FORTH_ACTIVITY/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T37_JAVA_FORTH_ACTIVITY/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T37_JAVA_FORTH_ACTIVITY/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T37_JAVA_FORTH_ACTIVITY/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T37_JAVA_FORTH_ACTIVITY/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T37_JAVA_FORTH_ACTIVITY/2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T37_JAVA_FORTH_ACTIVITY/P1_T37_JAVA_FORTH_ACTIVITY.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T37_JAVA_FORTH_ACTIVITY/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T37_JAVA_FORTH_ACTIVITY/untitled104.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/.idea/dictionaries/Estudiante.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/Documents.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/P1_T38_JAVA_FIFTH_ACTIVITY.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/out/production/Documents/usta/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T38_JAVA_FIFTH_ACTIVITY/src/usta/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/P1_T39_JAVA_SIXTH_ACTIVITY.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/out/production/x/usta/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/src/usta/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T39_JAVA_SIXTH_ACTIVITY/x.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T40_JAVA_SEVENTH_ACTIVITY/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T40_JAVA_SEVENTH_ACTIVITY/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T40_JAVA_SEVENTH_ACTIVITY/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T40_JAVA_SEVENTH_ACTIVITY/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T40_JAVA_SEVENTH_ACTIVITY/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T40_JAVA_SEVENTH_ACTIVITY/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T40_JAVA_SEVENTH_ACTIVITY/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T40_JAVA_SEVENTH_ACTIVITY/P1_T40_JAVA_SEVENTH_ACTIVITY.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T40_JAVA_SEVENTH_ACTIVITY/src/usta/fis/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T41_JAVA_EIGHTH_ACTIVITY/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T41_JAVA_EIGHTH_ACTIVITY/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T41_JAVA_EIGHTH_ACTIVITY/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T41_JAVA_EIGHTH_ACTIVITY/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T41_JAVA_EIGHTH_ACTIVITY/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T41_JAVA_EIGHTH_ACTIVITY/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T41_JAVA_EIGHTH_ACTIVITY/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T41_JAVA_EIGHTH_ACTIVITY/out/production/x/usta/fis/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T41_JAVA_EIGHTH_ACTIVITY/src/usta/fis/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/P1_T41_JAVA_EIGHTH_ACTIVITY/x.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1qH9ewd741SLQ3A9NpkmIxu7RAb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,7 +37,6 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="deletionFromPopupRequiresConfirmation" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
@@ -98,5 +61,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/P1_T40_PARCEL_SERVICE/src/usta/fis/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
